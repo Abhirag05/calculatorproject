@@ -1,0 +1,22 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    margin-left: 400px;
+    
+}
+#input{
+    width: 80%;
+    margin-left: 34px;
+    height: 45px;
+    margin-top: 25px;
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-color: white;
+    color:black;
+}
